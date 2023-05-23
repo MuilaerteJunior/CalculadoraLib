@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CalculadoraLib.Tests.xUnit/obj
+/CalculadoraLib.Tests.xUnit/bin/Debug/net6.0
+/CalculadoraLib.Tests.nUnit/obj
+/CalculadoraLib.Tests.nUnit/bin/Debug/net6.0
+/CalculadoraLib.Tests.MSTest/obj
+/CalculadoraLib.Tests.MSTest/bin/Debug/net6.0
+/CalculadoraLib/obj
+/CalculadoraLib/bin/Debug/net6.0
